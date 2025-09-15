@@ -1,1 +1,1 @@
-# pynorte2026-site
+# pynorte2026-site 🔥
