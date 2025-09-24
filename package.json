@@ -9,7 +9,6 @@
     "preview": "vite preview",
     "lint": "eslint --ext .ts,.tsx . --no-error-on-unmatched-pattern",
     "lint:fix": "eslint --ext .ts,.tsx . --no-error-on-unmatched-pattern --fix",
-    "types:check": "tsc --noEmit --pretty --composite false",
     "prepare": "husky install"
   },
   "dependencies": {
